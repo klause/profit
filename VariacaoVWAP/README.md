@@ -13,7 +13,7 @@ As linhas que podem ser plotadas com este indicador são:
 
 + Baixe o arquivo [VariacaoVWAP.psf](VariacaoVWAP.psf)
 
-+ Abra a plataforma Profit e acesso o menu Gerenciador de Estratégias
++ Abra a plataforma Profit e acesse o menu Gerenciador de Estratégias
 
 ![Menu Gerenciador de Estratégias](menu-gerenciador-estrategias.png)
 
@@ -33,16 +33,16 @@ As linhas que podem ser plotadas com este indicador são:
 
 ## Como usar o indicador
 
-### Limitações dos indicadores persoalizados do Profi
+### Limitações dos indicadores personalizados do Profit
 
 Infelizmente o editor de estratégia do Profit possui algumas limitações listadas abaixo:
 
 + Só é possível plotar 4 linhas no máximo
 + Não é possível colocar título nas linhas
-+ Os parâmetros do indicador só pode ser numérico
++ Os parâmetros do indicador só podem ser numéricos
 + Outras limitações técnicas
 
-Para conseguir plotar as 7 linhas, é preciso incluir o indicador VariacaoVWAP 3 vezes no gráfico desejado conforme os passos:
+Para conseguir plotar as 7 linhas em um só gráfico é preciso incluir o indicador VariacaoVWAP 3 vezes conforme os passos a seguir:
 
 1. Clique com o botão direito no gráfico que deseja colocar o indicador e acesse "Inserir Indicador..."
 
@@ -70,6 +70,6 @@ Para conseguir plotar as 7 linhas, é preciso incluir o indicador VariacaoVWAP 3
 
 Por causa da limitação do Profit de 4 linhas por indicador, se desejar colocar as demais variações e/ou a linha da VWAP, repita os passos acima e no passo 6 informe outra opção para o parâmetro **VariacaoPosNeg**
 
-Exemplo do gráfico mostrando a VWAP do dia anterior com as respectivas variações negativas e positivas. Nesse exemplo o indicador foi inserido 3 vezes no mesmo gráfico, cada um com uma opção diferente para o parâmetro **VariacaoPosNeg**.
+Exemplo do gráfico mostrando a VWAP do dia anterior com as respectivas variações (negativas e positivas). Nesse exemplo o indicador foi inserido 3 vezes no mesmo gráfico, cada um com uma opção diferente para o parâmetro **VariacaoPosNeg**.
 
 ![Propriedades](grafico-exemplo.png)
