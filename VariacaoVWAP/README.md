@@ -62,9 +62,9 @@ Para conseguir plotar as 7 linhas em um só gráfico é preciso incluir o indica
 
 6. Na janela de propriedades, informe o valor do parâmetro **VariacaoPosNeg** conforme opções abaixo:
 
-+ **0**  = Plota somente a linha com a VWAP do dia anterior
-+ **1**  = Plota 4 linhas com as variações positivas da VWAP
-+ **2**  = Plota 4 linhas com as variações negativas da VWAP
+   + **0**  = Plota somente a linha com a VWAP do dia anterior
+   + **1**  = Plota 4 linhas com as variações positivas da VWAP
+   + **2**  = Plota 4 linhas com as variações negativas da VWAP
 
 7. Na aba Aparência, configure o estilo de cada linha conforme sua preferência. Cada linha corresponde a uma variação da VWAP. No caso da opção **0** (somente linha da VWAP) configure somente a Linha 1.
 
