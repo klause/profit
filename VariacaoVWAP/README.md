@@ -1,8 +1,8 @@
 # Indicador Variação da VWAP para Profit
 
-Esse indicador permite que as variações da VWAP do fechamento do dia anterior sejam plotadas no gráfico.
+Este indicador permite que as variações da VWAP do fechamento do dia anterior sejam plotadas no gráfico.
 
-As linhas que podem ser plotadas com esse indicador são:
+As linhas que podem ser plotadas com este indicador são:
 
 + VWAP do dia anterior
 + 4 variações positivas: +0,5% / +1,0% / +1,5% / +2,0%
