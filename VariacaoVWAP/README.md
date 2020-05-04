@@ -8,6 +8,11 @@ As linhas que podem ser plotadas com este indicador são:
 + 4 variações positivas: +0,5% / +1,0% / +1,5% / +2,0%
 + 4 variações negativas: -0,5% / -1,0% / -1,5% / -2,0%
 
+# Termos de uso
+
+**Os indicadores desenvolvidos por mim tem a finalizade de auxiliar a comunidade de trades do Brasil. Os indicadores foram testados antes de serem disponibilizados, porém não me responsabilizo por algum problema que possa ocorrer, ao utilizar qualquer indicador você concorda que o autor não tem nenhuma responsabilidade por danos causados.**
+
+O código fonte dos indicadores é aberto e está disponível após a instalação, fique a vontade para contribuir, reportar erros e dar sugestões de melhoria.
 
 ## Instalação
 
